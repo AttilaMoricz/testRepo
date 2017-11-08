@@ -43,14 +43,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BranchClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BranchClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/anotherPackage/BranchClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#87#88#0" expanded="true" />
                 <element signature="e#109#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Branch2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/anotherPackage/asd/Branch2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/anotherPackage/PrintTheMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/anotherPackage/BranchClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/anotherPackage/asd/Branch2.java" />
       </list>
     </option>
   </component>
@@ -137,6 +151,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="anotherPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moricz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moricz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="anotherPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="asd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="moricz" type="b2602c69:ProjectViewProjectNode" />
@@ -398,11 +421,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/anotherPackage/BranchClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#87#88#0" expanded="true" />
             <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/anotherPackage/asd/Branch2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
           </folding>
         </state>
       </provider>
