@@ -1,6 +1,8 @@
+import static anotherPackage.PrintTheMessage.printThis;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("This is a test text");
+        printThis("This is a test text");
     }
 }
