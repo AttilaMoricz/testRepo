@@ -13,5 +13,8 @@ public class Main {
                 printThis("valami");
             }
         }
+        printThis("This is a test text");
+        notPrint("This is another text");
+        Branch2.printBranchName();
     }
 }
