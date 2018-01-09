@@ -7,6 +7,8 @@ public class Main {
         morePint();
     }
 
+    public static final String EMA = "ez meg az";
+
     private static final void morePint() {
         for (int i = 0; i <= 100; i++) {
             if (i % 5 == 0) {
@@ -17,4 +19,13 @@ public class Main {
         notPrint("This is another text");
         Branch2.printBranchName();
     }
+
+    private static void doSomething() {
+        System.out.println(EMA);
+    }
+
+    private static void doSomething() {
+        System.out.println(EMA);
+    }
+
 }
